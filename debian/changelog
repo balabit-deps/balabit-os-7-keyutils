@@ -1,3 +1,9 @@
+keyutils (1.5.9-9.2ubuntu2bb1) bionic; urgency=medium
+
+  * Balabit patched version
+
+ -- Balabit Platform Team <devnull@dev.null>  Mon, 30 Jul 2018 17:52:44 +0200
+
 keyutils (1.5.9-9.2ubuntu2) bionic; urgency=medium
 
   * debian/patches/endianness-and-PIE.patch: fix regexp match against
